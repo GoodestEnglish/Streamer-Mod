@@ -1,7 +1,6 @@
 # 觀眾場小幫手 - 模組版本
 > 注意: 本模組需要使用MongoDB儲存觀眾資料, 還有使用Streamer-DiscordBot讓觀眾們在Discord輸入指令 
->> [MongoDB](https://www.mongodb.com/) 
->> 
+>> [MongoDB](https://www.mongodb.com/)  
 >> [Streamer-DiscordBot](https://github.com/RealGoodestEnglish/Streamer-DiscordBot)  
 
 ## 如何使用
@@ -22,6 +21,5 @@
 |/sethost <MongoDB資料庫IP> |設置MongoDB資料庫IP|
 |/streamer <人數>|根據先後次序, 選出最適合的觀眾進入派對|
 
-__*注意: sethost指令需要輸入資料庫IP, 資料庫IP請不要外洩__
-
+__*注意: sethost指令需要輸入資料庫IP, 資料庫IP請不要外洩__  
 __**注意: 由於Hypixel 派對系統限制, streamer指令只能同時邀請五個玩家__
