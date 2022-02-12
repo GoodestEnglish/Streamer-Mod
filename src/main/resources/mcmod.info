@@ -1,0 +1,12 @@
+[{
+  "modid": "streamer",
+  "name": "Streamer",
+  "description": "Develop for partying viewers on stream!",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "logoFile": "",
+  "url": "",
+  "updateJSON": "",
+  "authorList": ["GoodestEnglish"],
+  "credits": "mdashlw for the mod template and the event"
+}]
